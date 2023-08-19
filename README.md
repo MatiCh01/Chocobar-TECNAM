@@ -21,4 +21,4 @@
 
 ### Logo
 
-![Logo](https://www.figma.com/file/4ptdX63f7JfTEIFHLNlpWU/Untitled?type=design&node-id=0-1&mode=design&t=S4kw9zFCvLYipOjI-0)
+![Logo](./images/Logo%20e-commerce.png)
