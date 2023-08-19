@@ -13,7 +13,7 @@
 - Periféricos
 - Sillas Gamer, entre otros
 
-### La tipografía a utilizar será [Agdasima]("https://fonts.googleapis.com/css2?family=Agdasima&display=swap")
+### La tipografía a utilizar será [Agdasima](https://fonts.google.com/specimen/Agdasima)
 
 ### Paleta de colores ':'
 
