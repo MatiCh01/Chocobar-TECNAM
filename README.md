@@ -17,7 +17,7 @@
 
 ### Paleta de colores ':'
 
-![Paleta](https://color.adobe.com/es/mythemes)
+![Paleta](./images/Paleta%20de%20colores.jpeg)
 
 ### Logo
 
