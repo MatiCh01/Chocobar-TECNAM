@@ -22,3 +22,7 @@
 ### Logo
 
 ![Logo](./images/Logo%20e-commerce.png)
+
+### Figma
+
+[Figma](https://www.figma.com/file/4ptdX63f7JfTEIFHLNlpWU/E-commerce?type=design&node-id=0-1&mode=design&t=ixfayjyM7bn333f8-0)
